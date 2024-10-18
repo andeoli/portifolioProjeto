@@ -1,0 +1,1 @@
+Este código cria um sistema bancário simples em Java que permite ao usuário escolher entre ser uma pessoa física ou jurídica, e realizar operações de depósito, saque (com taxa de 5% e limite de R$500,00), transferência, consulta de saldo e encerramento da conta. O sistema também verifica se há saldo suficiente antes de realizar saques e transferências
